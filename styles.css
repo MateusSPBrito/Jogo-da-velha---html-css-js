@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tab {
+    height: 300px;
+    width: 300px;
+    background-color: #545454;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between
+}
+
+.casa {
+    background-color: #fff;
+    width: 95px;
+    height: 95px;
+    border: none;
+    font-size: 75px;
+    color: #545454;
+}
