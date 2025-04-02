@@ -1,6 +1,6 @@
 # 🎮Jogo da Velha
 
-Este projeto é uma recriação do **jogo da velha** com o intuito de por em pratica meu aprendizado em programação. Jogue pelo link [Jogo da Velha](https://mateusspbrito.github.io/Jogo-da-velha---html-css-js/)
+Este projeto é uma recriação do **jogo da velha** com o intuito de por em prática meu aprendizado em programação. Jogue pelo link [Jogo da Velha](https://mateusspbrito.github.io/Jogo-da-velha---html-css-js/)
 
 ## 🛠️ Tecnologias Utilizadas
 
